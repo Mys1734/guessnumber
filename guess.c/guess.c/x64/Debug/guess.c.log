@@ -1,0 +1,4 @@
+﻿  guess.c
+D:\项目\guess.c\guess.c\guess.c(55,6): warning C4102: “defalut”: 未引用的标签
+  guessh
+  guess.c.vcxproj -> D:\项目\guess.c\x64\Debug\guess.c.exe
